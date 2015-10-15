@@ -1,4 +1,6 @@
-### "Bush leaguer" ###
+## DEFINITION ##
+
+"Bush leaguer"
 
 (noun)
 

@@ -69,4 +69,4 @@ or
 
 - Impliment text-analysis engine to recognize common recruiter communication patterns/terms
 - Centralize domain database to facilitate a crowdsourced blacklist of scumbag company domains
-- Create auto-replier that responds to recruiting spam with an obfuscated link to goatse.cx
+- Create auto-replier that responds to recruiting spam with an obfuscated link to something awful
